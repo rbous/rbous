@@ -1,23 +1,7 @@
-# rayane boussanni                                                                                                                                                                               
-   
-  software engineering @ carleton university, class of '27                                                                                                                                         
-                  
-  i like building things that work. backends, compilers, networks, and occasionally taking apart cars.                                                                                            
-                  
-  currently at **trend micro** working on cloud security infrastructure in go.                                                                                                                     
-                  
-  ## stuff i've built                                                                                                                                                                              
-                  
-  - **[champanzee](https://champanzee.tech)** — real-time multiplayer survey platform. won 2nd at uottahack 8. go + websockets + redis                                                             
-  - **[observatoire360](https://observatoire360.pages.dev)** — ai satellite surveillance that detects unpermitted construction
-  - **[pycompiler](https://github.com/rbous/PyCompiler)** — chocopy-to-c compiler from scratch in c++                                                                                              
-  - **[peer-2-peer](https://github.com/rbous)** — decentralized file sharing over raw tcp sockets in python                                                                                        
-  - **[url-shortener](https://url.mrie.dev)** — containerized redirect service with signed images and cloudflare tunnel                                                                            
-                                                                                                                                                                                                   
-  ## i mostly write                                                                                                                                                                                
-                                                                                                                                                                                                   
-  `go` `python` `typescript` `c/c++` `java`                                                                                                                                                        
-                  
-  ## links                                                                                                                                                                                         
-                  
-  [website](https://boussanni.com) · [linkedin](https://www.linkedin.com/in/rayane-boussanni) · [email](mailto:rboussanni@gmail.com)     
+###### where i work/ed (desc)
+
+<img src="https://www.google.com/s2/favicons?domain=composio.dev&sz=16" width="16"/> mts @ [composio](https://composio.dev) · ai agents  
+<img src="https://www.google.com/s2/favicons?domain=dell.com&sz=16" width="16"/> swe @ [dell](https://www.dell.com) · 5g automation  
+<img src="https://www.google.com/s2/favicons?domain=trendmicro.com&sz=16" width="16"/> swe @ [trend micro](https://www.trendmicro.com) · ai security  
+<img src="https://www.google.com/s2/favicons?domain=jsitelecom.com&sz=16" width="16"/> swe @ [jsi telecom](https://www.jsitelecom.com) · ip containerization  
+<img src="https://www.google.com/s2/favicons?domain=canada.ca&sz=16" width="16"/> swe @ [correctional service canada](https://www.csc-scc.gc.ca) · compliance reporting  
